@@ -9,6 +9,7 @@ This repository contains Terraform configuration files for managing infrastructu
 Before using the Terraform configuration files in this repository, ensure that you have the following prerequisites installed on your machine:
 
 - [Terraform](https://www.terraform.io/downloads.html): Install Terraform according to the instructions provided in the official documentation.
+- please enter your github token in terraform.tfvars file
 
 ## Getting Started
 
